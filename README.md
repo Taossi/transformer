@@ -1,5 +1,9 @@
-# **** A TensorFlow Implementation of [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+#  A TensorFlow Implementation of [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
+forked from Kyubyong/transformer.
+Thanks very much! 
+
+There are some details different from the origin code.
 
 ## Requirements
 * python==3.x
